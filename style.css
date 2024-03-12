@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.content {
+  max-width: 400px;
+  padding: 16px;
+  margin: auto;
+}
+
+.content button {
+  width: 100%;
+  margin-top: 16px;
+}
+
+.content input,
+.content label{
+  margin-top: 10px;
+}
+
+#termo{
+  margin: auto;
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
