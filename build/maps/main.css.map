@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","var.scss"],"names":[],"mappings":"AAEA,KACE,iBCHW","file":"../styles/main.css","sourcesContent":["@use 'var';\r\n\r\nbody {\r\n  background-color: var.$corDeFundo;\r\n}","$corDeFundo: red;"]}
